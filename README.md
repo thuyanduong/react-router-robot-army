@@ -32,4 +32,4 @@ It's important to test that you app can handle **both** user navigation as well 
 
 ## Submitting Your Assignment
 
-When you are finished, push your code up to Github, deploy your app on Heroku, and submit on Canvas.
+When you are finished, push your code up to Github and submit on Canvas.
