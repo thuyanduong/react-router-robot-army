@@ -30,7 +30,7 @@ It's important to test that you app can handle **both** user navigation as well 
 
 > Go to the `/robots/:id` page of your app and make sure you can navigate back to the Bots Page by clicking the Back button.
 
-BONUS: What happens if a user types in a URL of `/robots/1000000` or some robot that doesn't exist??? How could you render a 404 Page? Or many you would redirect them to the Bots Page?
+**BONUS**: What happens if a user types in a URL of `/robots/1000000` or some robot that doesn't exist??? How could you render a 404 Page? Or many you would redirect them to the Bots Page?
 
 ## Submitting Your Assignment
 
