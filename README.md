@@ -22,7 +22,7 @@ Note that not all the components in the code are rendered on the DOM, but you sh
 
 You will need to `npm install react-router-dom` in order to build out this app. Read the [React Router Documentation](https://reactrouter.com/web/guides/quick-start) to review all the possible things you can import.
 
-## Testing Your App
+## User Testing Your App
 
 It's important to test that you app can handle **both** user navigation as well as clients requesting specific URLs. 
 
